@@ -9,4 +9,7 @@ Now I wanna hear my track, are you bumpin' that? <br>
 <hr>
 I am a 18 years old freshman in computer science trying to find out what i can do <br>
 with computers, books and keyboard. Currently enrolled in the CS programm by<br>
-the University of Brasilia. Getting to kmow some basic tools as git/github/python.
+the University of Brasilia
+![download (1)] (https://github.com/user-attachments/assets/d6587629-6db3-4cfd-96d3-7e1e3efeea3f)
+
+. Getting to kmow some basic tools as git/github/python.
