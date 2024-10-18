@@ -1,6 +1,1 @@
-
-
-
- ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Joaovit129)
-< ![Header](./[![image](https://github.com/user-attachments/assets/e69cb5cb-1ff2-4bb3-8605-1de46c769985)
-]
+![download](https://github.com/user-attachments/assets/3c388ac2-f90d-4256-8760-f151001f244f)
