@@ -1,2 +1,2 @@
-Trying to build somethings
+Trying to build some things
 
